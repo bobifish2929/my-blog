@@ -1,0 +1,8 @@
+title: Мой блог об ИИ
+description: Статьи об искусственном интеллекте и роботах
+lang: ru
+
+theme: minima
+
+plugins:
+  - jekyll-feed
